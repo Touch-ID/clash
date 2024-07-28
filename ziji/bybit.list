@@ -1,0 +1,11 @@
+# 内容：bybit
+# 数量：9条
+DOMAIN-KEYWORD,bybit
+DOMAIN-SUFFIX,api2.bybit.com
+DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN-SUFFIX,static.bybit.com
+DOMAIN-SUFFIX,ws2.bybit.com
+DOMAIN-SUFFIX,www.bybit.com
+DOMAIN-SUFFIX,static.bybit.com
+DOMAIN-SUFFIX,api2-1.bybit.com
+DOMAIN-SUFFIX,api2-2.bybit.com
